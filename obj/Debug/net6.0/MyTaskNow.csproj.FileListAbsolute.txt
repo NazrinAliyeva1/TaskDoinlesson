@@ -1,0 +1,14 @@
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.AssemblyInfoInputs.cache
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.AssemblyInfo.cs
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.08\Downloads\MyTaskNow\bin\Debug\net6.0\MyTaskNow.exe
+C:\Users\ca.r214.08\Downloads\MyTaskNow\bin\Debug\net6.0\MyTaskNow.deps.json
+C:\Users\ca.r214.08\Downloads\MyTaskNow\bin\Debug\net6.0\MyTaskNow.runtimeconfig.json
+C:\Users\ca.r214.08\Downloads\MyTaskNow\bin\Debug\net6.0\MyTaskNow.dll
+C:\Users\ca.r214.08\Downloads\MyTaskNow\bin\Debug\net6.0\MyTaskNow.pdb
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.dll
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\refint\MyTaskNow.dll
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.pdb
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\MyTaskNow.genruntimeconfig.cache
+C:\Users\ca.r214.08\Downloads\MyTaskNow\obj\Debug\net6.0\ref\MyTaskNow.dll
